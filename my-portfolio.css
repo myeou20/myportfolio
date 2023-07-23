@@ -1,0 +1,29 @@
+
+body {
+    background-image: url('./asset/HomePage_Background.jpeg');
+    background-size: sm-50 md-100em lg-120em;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 20px;
+    color: #800080;
+    opacity: 0.2;
+}
+
+.nav-link {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  .col-lg-6 button {
+    color: white;
+    background-color: purple;
+  }
+
+  .col-md-3 form {
+    opacity: 0.6;
+  }
+
+  .container {
+    color: purple;
+  }
